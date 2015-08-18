@@ -1,0 +1,10 @@
+---
+title: "H&N 5000 - Test documentation"
+output: pdf_document
+---
+
+```{r include=FALSE, warning=FALSE}
+source("HN5000.R")
+```
+
+There are `r nrow(hn5000.dta)` rows of data in the Stata 13 verison of the dataset and `r nrow(hn5000.csv)` rows of data in the csv version.
