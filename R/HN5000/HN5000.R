@@ -5,3 +5,5 @@ hn5000.csv <- read.csv("G:/Research/BRU Nutrition/BRU Group/Core theme/Data docu
 
 View(hn5000.dta)
 View(hn5000.csv)
+
+Print("This is a test")
