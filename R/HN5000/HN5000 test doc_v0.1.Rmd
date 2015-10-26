@@ -7,4 +7,4 @@ output: pdf_document
 source("HN5000.R")
 ```
 
-There are `r nrow(hn5000.dta)` rows of data in the Stata 13 verison of the dataset and `r nrow(hn5000.csv)` rows of data in the csv version.
+This is a test of the data import settings for Stata 13 files and csv files. There are `r nrow(hn5000.dta)` rows of data in the Stata 13 verison of the dataset and `r nrow(hn5000.csv)` rows of data in the csv version.
